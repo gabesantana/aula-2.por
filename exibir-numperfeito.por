@@ -16,6 +16,8 @@ programa {
       se ( acumuladora == num){
         escreva ("perfeito")
       }
+      senao{
+        escreva("não perfeito")
     }
   }
 }
